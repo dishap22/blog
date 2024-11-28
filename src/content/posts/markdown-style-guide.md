@@ -20,10 +20,10 @@ Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptio
 
 Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
 
-![blog placeholder](/static/blog-placeholder.svg)
+![blog placeholder](/blog/static/blog-placeholder.svg)
 
 <video controls>
-  <source src="/static/dynamic-island-animation.mp4" type="video/mp4">
+  <source src="/blog/static/dynamic-island-animation.mp4" type="video/mp4">
 </video>
 
 > Tiam, ad mint andaepu dandae nostion secatur sequo quae.  
