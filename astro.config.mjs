@@ -9,7 +9,8 @@ import { SITE_URL } from "./src/consts";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://dishap22.github.io/blog',
+  site: 'https://dishap22.github.io',
+  base: "/blog/",
   integrations: [mdx(), sitemap(), tailwind()],
   markdown: {
     shikiConfig: {
